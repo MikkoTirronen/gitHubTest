@@ -25,3 +25,6 @@ console.log(dog.numberOfLegs())
 const spider = new Animal("Spider", 8)
 console.log(spider.speech)
 console.log(spider.numberOfLegs())
+
+
+// here is a new line of code i would like to push to github  
